@@ -1,0 +1,134 @@
+body{
+  margin-left: 30px;
+}
+
+.provinces {
+  stroke-width: 5px;
+  fill: none;
+  stroke: #000;
+  stroke-width: 0.5px;
+}
+
+#units{
+  font-size: 15px;
+}
+
+.countries{
+  fill: white;
+  stroke: #989898 ;
+  stroke-width: 2px;
+}
+
+.gratBackground {
+  fill: #D5E3FF;
+}
+
+.gratLines {
+  fill: none;
+  stroke: #999;
+  stroke-width: 1px;
+}
+
+ #map {
+  box-shadow: 0 0 10px #777777;
+  height:420px;
+  width: 900px;
+
+}
+#head{
+    font-stretch: extra-expanded; 
+    color: white;
+    background-color: #006837;
+    padding: 5px;
+    height: 144px;
+    width: 1400px;
+
+}
+h1 {
+  padding-left: 30px;
+  font-size: 250%;
+  margin: 0px;
+  padding-top: 10px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+h2{
+  display: inline-block;
+  padding-left: 100px;
+  text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+#accordion h3{
+  margin-left: 550px;
+  position: absolute;
+}
+.dropdown {
+  right: 300px;
+  bottom: 730px;
+
+}
+/*.dropdown h3{
+  background-color: white;
+  box-shadow: 3px 3px 4px #000;
+  border-radius: 5px;
+  width: 180px;
+  height: 25px;
+  text-align:center;
+  padding-top: 5px;
+
+
+}*/
+.dropdown select {
+  font-size: 1em;
+  border: 1px solid black;
+  width: 180px;
+  position: absolute;
+
+
+}
+.chart {
+  height:;
+  background-color: rgba(128,128,128,.2);
+  border: medium solid #999;
+  margin-left: 430px; 
+  margin-bottom: 710px; 
+}
+
+.charttext {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.infolabel {
+  position: absolute;
+  width: 240px;
+  height: 50px;
+  color: #fff;
+  background-color: #000;
+  border: solid thin #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.infolabel h1 {
+  margin: 0px;
+  padding: 0px;
+  line-height: 1em;
+  font-size: 25px;
+}
+
+
+.labelname {
+  float: left;
+  margin: 0px 30px 10px 0px;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.charttext {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+#about{
+  margin-bottom: 600px;
+}
+
